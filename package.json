@@ -1,6 +1,6 @@
 {
   "name": "calculadora",
-  "homepage": "https://github.com/FrancioXavier/calculadora-React/tree/main/calculadora",
+  "homepage": "https://github.com/FrancioXavier/calculadora",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
